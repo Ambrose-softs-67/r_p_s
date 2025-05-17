@@ -1,1 +1,1 @@
-# r_p_s
+A simple rock paper scissor game
